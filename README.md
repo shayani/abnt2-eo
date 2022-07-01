@@ -5,13 +5,21 @@ Agora você digitar os caracteres do Esperanto usando seu teclado ABNT2 no Windo
 
 Este é simplemente um layout de teclado, idêntico ao ABNT2 padrão do Windows, porém com as seguintes teclas a mais:
 
+```
 ^ + C = Ĉ
 ^ + G = +G
 ^ + J = Ĵ 
 ^ + H = Ĥ
 ^ + S = Ŝ
 ^ + U = Û
+```
 
 É de graça e open-source.
 
+Instalação
+===
+
+
+
 Profitu!
+
