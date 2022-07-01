@@ -18,8 +18,9 @@ Este é simplemente um layout de teclado, idêntico ao ABNT2 padrão do Windows,
 
 Instalação
 ===
+Baixe o arquivo `abnt2-eo.zip` da página https://github.com/shayani/abnt2-eo/releases/, descompacte-o e execute o arquivo `setup.exe` para instalar no seu computador.
 
+Após isso, altere suas configurações de teclado no Windows, pedindo para adicionar um novo Layout de teclado e escolha o nome "Português ABNT2 e Esperanto" :)
 
 
 Profitu!
-
